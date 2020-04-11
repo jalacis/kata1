@@ -36,7 +36,7 @@
     .hijo:nth-child(3) {
         order: 1;
         align-self: flex-start;
-        background-color: rgb(65, 225, 86);
+        background-color: rgb(41, 145, 55);
     }
     
     .hijo:nth-child(4) {
@@ -71,7 +71,7 @@
     h2 {
         color: #245;
         text-align: center;
-        font-size: 25px;
+        font-size: 26px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
