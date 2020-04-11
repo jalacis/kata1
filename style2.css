@@ -1,0 +1,13 @@
+.containerGrid {
+    background: red;
+    padding: 5px;
+    /*width: 300px;*/
+    display: grid;
+    grid-template-columns: repeat(2, minmax(100px, auto));
+    grid-gap: 20px;
+}
+
+.containerGrid>div {
+    background: white;
+    text-align: center;
+}
